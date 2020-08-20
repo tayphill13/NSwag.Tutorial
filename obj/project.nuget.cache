@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "brJZ+jAyx1sl5N7TpUgTrJrlwPcY9O5roDWZC+rN4nX9Ad/3wnteQoVe0nzm8Dnp2wj361fUObfRD0BwWZ3IBg==",
+  "dgSpecHash": "+esUePwAbtSdynD36ArdisBeh6fFYury+t82KOF+w3U2WRpHcDxKqRbrIbdPVQoxGkOhlhlR/ctXJ9S25ZXjqw==",
   "success": true,
   "projectFilePath": "/Users/thekidnamedkd/Desktop/AspNetCore.Docs/aspnetcore/tutorials/web-api-help-pages-using-swagger/samples/2.1/TodoApi.NSwag/TodoApi.csproj",
   "expectedPackageFiles": [

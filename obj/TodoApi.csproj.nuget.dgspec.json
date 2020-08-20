@@ -53,7 +53,7 @@
             },
             "NSwag.AspNetCore": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[13.7.0, )"
             }
           },
           "imports": [

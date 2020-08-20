@@ -12063,7 +12063,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
-      "NSwag.AspNetCore >= *"
+      "NSwag.AspNetCore >= 13.7.0"
     ]
   },
   "packageFolders": {
@@ -12119,7 +12119,7 @@
           },
           "NSwag.AspNetCore": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[13.7.0, )"
           }
         },
         "imports": [
